@@ -26,9 +26,22 @@ aside {
     transition: .4s linear;
 }
 
+.fas {
+    display: none;
+}
+
+i.show {
+    display: block;
+}
+
+aside.show {
+    left: 0;
+}
+
+
 /* .burger:hover+aside {
     left: 0;
 } */
-.active:hover+aside {
+.burger.active:hover+aside {
     left: 0;
 }
