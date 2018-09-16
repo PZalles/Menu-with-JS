@@ -26,6 +26,9 @@ aside {
     transition: .4s linear;
 }
 
-.burger:hover+aside {
+/* .burger:hover+aside {
+    left: 0;
+} */
+.active:hover+aside {
     left: 0;
 }
