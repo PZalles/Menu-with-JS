@@ -1,1 +1,1 @@
-After clicking button u can show/hide nav.
+After clicking the button u can show/hide nav.
